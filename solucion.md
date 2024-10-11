@@ -31,21 +31,21 @@
 
     - Arquivo da zona:
 
-        ![imaxe3.1](imaxes\solapt3.1.png)
+        ![imaxe3.1](imaxes/solapt3.1.png)
 
     - Arqivo /etc/bind/named.conf.local
 
-        ![imaxe3.2](imaxes\solapt3.2.png)
+        ![imaxe3.2](imaxes/solapt3.2.png)
 
 4. Instala unha zona de resolución inversa que teña que ver co enderezo do equipo darthvader, e engade rexistros PTR para os rexistros tipo A do exercicio anterior. Pega no documento de entrega o contido do arquivo de zona, e do arquivo /etc/bind/named.conf.local
 
     - Arquivo da zona:
 
-    ![imaxe4.1](imaxes\solapt4.1.png)
+    ![imaxe4.1](imaxes/solapt4.1.png)
 
     - Arquivo /etc/bind/named.conf.local
 
-    ![imaxe4.2](imaxes\solapt4.2.png)
+    ![imaxe4.2](imaxes/solapt4.2.png)
 
 5. Comproba que podes resolver os distintos rexistros de recursos. Pega no documento de entrega a saída dos comandos:
     - nslookup darthvader.starwars.lan localhost
